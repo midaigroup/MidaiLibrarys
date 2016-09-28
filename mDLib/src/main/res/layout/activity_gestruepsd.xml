@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/gestrue_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_weight="0.1"
+        android:gravity="center_vertical"
+        android:text="欢迎使用金米袋"
+        android:textColor="@color/orange"
+        android:textSize="25sp"
+        android:typeface="normal" />
+
+    <TextView
+        android:id="@+id/gestrue_information"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.05"
+        android:gravity="center_vertical"
+        android:text="@string/t_huizhijiesuotuan"
+        android:textColor="@color/orange"
+        android:textSize="20sp"
+        android:typeface="normal" />
+
+    <com.lucio.library.widget.LockPatternView
+        android:id="@+id/gestrue_lockpattern"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.45"
+        android:padding="5dp" />
+
+    <TextView
+        android:id="@+id/gestrue_nextsetting"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_gravity="right"
+        android:layout_marginRight="25dp"
+        android:gravity="center_vertical"
+        android:text="跳过设置"
+        android:textColor="@color/blue"
+        android:textSize="20sp"
+        android:typeface="normal" />
+
+</LinearLayout>

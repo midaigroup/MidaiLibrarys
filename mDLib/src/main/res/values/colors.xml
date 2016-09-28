@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="red">#f53131</color>
+	<color name="half_red">#7A1818</color>
+	<color name="green">#53d763</color>
+	<color name="half_green">#296B31</color>
+	<color name="white">#FFFFFF</color>
+	<color name="half_white">#AAAAAA</color>
+	<color name="blue">#2D7FBA</color>
+	<color name="half_blue">#2272AA</color>
+	<color name="grey">#8C8C8C</color>
+	<color name="half_grey">#464646</color>
+	<color name="orange">#F9A101</color>
+	<color name="gray">#cccccc</color>
+	<color name="black">#000000</color>
+
+
+</resources>

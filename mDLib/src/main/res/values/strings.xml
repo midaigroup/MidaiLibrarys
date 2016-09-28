@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MDLib</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="is_downloading">下载中...</string>
+    <string name="cancel">取消</string>
+
+    <!-- 手势解锁 -->
+    <string name="ges_error_info">你已输错%1$s次，还有%2$s次机会</string>
+    <string name="lockpattern_recording_incorrect_too_short">至少连接4个点，请重试</string>
+    <string name="gesture_password">请设置手势密码</string>
+    <string name="regesture_password">请设置手势密码</string>
+    <string name="lock_draw">请绘制解锁图案</string>
+    <string name="lock_draw_again">请确认绘制解锁图案</string>
+    <string name="lock_draw_error">两次绘制不一致，请重新绘制</string>
+    <string name="lock_draw_reset">重新设置手势</string>
+    <string name="t_huizhijiesuotuan">绘制解锁图案</string>
+    <string name="t_qitazhanghaodenglu">其他账号登录</string>
+
+</resources>
