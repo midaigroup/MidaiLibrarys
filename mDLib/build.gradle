@@ -43,5 +43,4 @@ dependencies {
     compile files('libs/ShareSDK-Wechat-2.6.6.jar')
     compile files('libs/ShareSDK-ShortMessage-2.6.6.jar')
     compile files('libs/ShareSDK-QQ-2.6.6.jar')
-    compile files('libs/mpandroidchartlibrary-2-1-5.jar')
 }
