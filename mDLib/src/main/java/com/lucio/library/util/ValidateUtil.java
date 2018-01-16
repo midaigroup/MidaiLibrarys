@@ -25,7 +25,7 @@ public class ValidateUtil {
 	/**
 	 * 正则表达式：验证手机号
 	 */
-	public static final String REGEX_MOBILE = "^(13[0-9]|15[\\d]|17[\\d]|18[0-9]|14[\\d])[0-9]{8}$";
+	public static final String REGEX_MOBILE = "^(13[0-9]|15[\\d]|17[\\d]|18[0-9]|19[0-9]|14[\\d])[0-9]{8}$";
 
 	/**
 	 * 正则表达式：验证邮箱
